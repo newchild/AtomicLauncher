@@ -38,6 +38,7 @@ hs_err_pid*
 *.exe
 *.out
 *.app
+*.apk
 
 # bin
 [Dd]ebug/
